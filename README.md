@@ -8,30 +8,26 @@ CSI measurements collected from a single Uniform Rectangular Array (URA) using R
 Dual-Array CSI for 3D Localization
 CSI measurements jointly captured from two spatially separated URAs. These data enable 3D source localization via collaborative signal processing across arrays, supporting algorithm development in geometric or learning-based localization.
 
-All data were collected under controlled settings with known ground truth positions and synchronized switching sequences. The dataset is structured to support easy parsing and integration with custom signal processing pipelines.
+All data were collected under controlled settings with known ground truth positions and synchronized switching sequences.
 
 ### Data preparation
 #### WiCAL Dataset
 Download the dataset from [LINK](https://drive.google.com/file/d/1F0oEb3BHpQB7VV8JXqczlZU4rPlaC8pQ/view?usp=drive_link).
 
-
 #### Data Structure
 We organize the datasets like this:
 ```
-Relightable3DGaussian
-├── datasets
-    ├── data_URA_sharing
-    |   ├── dataset
-    |   ├── A_main_URA_dataloader.m
+├── data
+    ├── test.2024.9.5
+    |   ├── 1_1.dat
+    |   ├── 2_1.dat
     |   ├── ...
-    ├── data_2URA_sharing
-    |   ├── dataset
-    │   │── A_main_2URA_dataloader.m
-    │   │── ...
+    |   ├── x_1.dat
+    |   ├── ...
 ```
 
 ### Running
-We ran A_main_xURA_dataloader.m in MATLAB 2023a without any issues.
+RUn main_52G.m in MATLAB without any issues.
 
 
 
