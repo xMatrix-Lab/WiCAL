@@ -22,7 +22,6 @@ All data were collected under controlled settings with known ground truth positi
 <p align="center">
     <img src="./Preview/SOI_plane.png" width="400" >
 </p>
-📄 Full document: [SOI_plane.pdf](./Preview/SOI_plane.pdf)
 
 Download the dataset from [LINK](https://drive.google.com/file/d/1bLcx-BwGriu5drKyFbsueIgeqMj9aLzc/view?usp=drive_link).
 
