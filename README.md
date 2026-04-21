@@ -1,5 +1,7 @@
 # WiCAL: Accurate Wi-Fi-Based 3D Localization Enabled by Collaborative Antenna Arrays
 
+### <p align="center"> [📰Paper](https://ieeexplore.ieee.org/abstract/document/11072249)</p>
+
 This repository provides Channel State Information (CSI) datasets collected using RF-switch-based multiplexing of multiple RF chains. The data were acquired for wireless sensing tasks using antenna array configurations and are categorized into two types:
 
 Single-Array CSI for 3D AoA Estimation
