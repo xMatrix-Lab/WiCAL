@@ -27,7 +27,7 @@ We organize the datasets like this:
 ```
 
 ### Running
-RUn main_52G.m in MATLAB without any issues.
+RUN main_52G.m in MATLAB without any issues.
 
 
 
