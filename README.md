@@ -39,7 +39,9 @@ If you find our work useful in your research, please be so kind to cite:
   author={Wang, Fuhai and Li, Zhe and Xiong, Rujing and Mi, Tiebin and Qiu, Robert Caiming},
   journal={IEEE Journal on Selected Areas in Communications},
   year={2025},
-  publisher={IEEE}
+  volume={43},
+  number={11},
+  pages={3752-3765}
 }
 ```
 
