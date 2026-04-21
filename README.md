@@ -18,7 +18,7 @@ All data were collected under controlled settings with known ground truth positi
 ### Data preparation
 
 #### WiCAL 3D AoA Dataset
-##### Preview
+##### The planar region for 3D AoA estimation
 <p align="center">
     <img src="./Preview/SOI_plane.png" width="400" >
 </p>
