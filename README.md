@@ -13,7 +13,7 @@ CSI measurements jointly captured from two spatially separated URAs. These data 
 All data were collected under controlled settings with known ground truth positions and synchronized switching sequences.
 
 ### Data preparation
-#### WiCAL Dataset
+#### WiCAL 3D AoA Dataset
 Download the dataset from [LINK](https://drive.google.com/file/d/1bLcx-BwGriu5drKyFbsueIgeqMj9aLzc/view?usp=drive_link).
 
 #### Data Structure
