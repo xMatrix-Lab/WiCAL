@@ -20,7 +20,7 @@ All data were collected under controlled settings with known ground truth positi
 #### WiCAL 3D AoA Dataset
 ##### Documentation Preview
 
-![PDF Preview](./Preview/SOI_plane.png)
+<img src="./Preview/SOI_plane.png" width="600" height="800">
 
 📄 Full document: [SOI_plane.pdf](./Preview/SOI_plane.pdf)
 
