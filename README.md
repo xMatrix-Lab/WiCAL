@@ -2,7 +2,9 @@
 
 ### <p align="center"> [📰Paper](https://ieeexplore.ieee.org/abstract/document/11072249)</p>
 
-This repository provides Channel State Information (CSI) datasets collected using RF-switch-based multiplexing of multiple RF chains. The data were acquired for wireless sensing tasks using antenna array configurations and are categorized into two types:
+Accurate 3D localization is essential for realizing advanced sensing functionalities in next-generation Wi-Fi communication systems. This study investigates the potential of multistatic localization in Wi-Fi networks through the deployment of multiple cooperative antenna arrays. 
+
+This repository aims to open-source real-world measured datasets for wireless sensing research. It provides Channel State Information (CSI) datasets collected using RF-switch-based multiplexing of multiple RF chains. The data were acquired for wireless sensing tasks using antenna array configurations and are categorized into two types:
 
 Single-Array CSI for 3D AoA Estimation
 CSI measurements collected from a single Uniform Rectangular Array (URA) using RF switching. These data are suitable for high-resolution 3D Angle-of-Arrival (AoA) estimation and beamforming research.
