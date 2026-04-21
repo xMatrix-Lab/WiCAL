@@ -21,6 +21,8 @@ All data were collected under controlled settings with known ground truth positi
 ##### The planar region for 3D AoA estimation
 <p align="center">
     <img src="./Preview/SOI_plane.png" width="400" >
+    <br>
+    <em>The planar region for 3D AoA estimation</em>
 </p>
 
 Download the dataset from [LINK](https://drive.google.com/file/d/1bLcx-BwGriu5drKyFbsueIgeqMj9aLzc/view?usp=drive_link).
