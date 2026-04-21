@@ -31,7 +31,9 @@ RUN main_52G.m in MATLAB without any issues.
 
 
 
-
+### Citation
+If you find our work useful in your research, please be so kind to cite:
+```
 @article{wang2025wical,
   title={WiCAL: Accurate Wi-Fi-based 3D localization enabled by collaborative antenna arrays},
   author={Wang, Fuhai and Li, Zhe and Xiong, Rujing and Mi, Tiebin and Qiu, Robert Caiming},
@@ -39,7 +41,7 @@ RUN main_52G.m in MATLAB without any issues.
   year={2025},
   publisher={IEEE}
 }
-
+```
 
 
 
